@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/project_15_SafariTrip/static/css/main.e6bc80ef.css",
+    "main.js": "/project_15_SafariTrip/static/js/main.fbfa4c3c.js",
+    "static/js/453.19db134e.chunk.js": "/project_15_SafariTrip/static/js/453.19db134e.chunk.js",
+    "static/media/trip2.jpg": "/project_15_SafariTrip/static/media/trip2.da2500728a8ee61129fc.jpg",
+    "static/media/trip1.jpg": "/project_15_SafariTrip/static/media/trip1.82b5d38e2000a95b7c02.jpg",
+    "static/media/home.avif": "/project_15_SafariTrip/static/media/home.8435a57929bead6eaa08.avif",
+    "static/media/trip3.jpg": "/project_15_SafariTrip/static/media/trip3.d63cdaa345f8f95c4d88.jpg",
+    "static/media/destination1.jpg": "/project_15_SafariTrip/static/media/destination1.6fb97a9eab774b045981.jpg",
+    "static/media/destination3.jpg": "/project_15_SafariTrip/static/media/destination3.7887652ced4bb60d12fd.jpg",
+    "static/media/destination2.jpg": "/project_15_SafariTrip/static/media/destination2.327a480bac1a543052a0.jpg",
+    "static/media/destination4.jpg": "/project_15_SafariTrip/static/media/destination4.81a2902c1a02138a9acd.jpg",
+    "static/media/contact.jpg": "/project_15_SafariTrip/static/media/contact.de28727e3828f4c8149f.jpg",
+    "static/media/services.avif": "/project_15_SafariTrip/static/media/services.9b46b6e659a098add4b7.avif",
+    "static/media/about.jpg": "/project_15_SafariTrip/static/media/about.deeb0a43c2189695dd47.jpg",
+    "index.html": "/project_15_SafariTrip/index.html",
+    "main.e6bc80ef.css.map": "/project_15_SafariTrip/static/css/main.e6bc80ef.css.map",
+    "main.fbfa4c3c.js.map": "/project_15_SafariTrip/static/js/main.fbfa4c3c.js.map",
+    "453.19db134e.chunk.js.map": "/project_15_SafariTrip/static/js/453.19db134e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6bc80ef.css",
+    "static/js/main.fbfa4c3c.js"
+  ]
+}
